@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: fd359e1fb362c4a88a1e551eaadda4a1
+timeCreated: 1518810842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: baketu
+    100002: baketu1
+    100004: body
+    100006: body1
+    100008: bodyhead
+    100010: head
+    100012: leftarm
+    100014: leftarm 1
+    100016: leftboard
+    100018: lefteye
+    100020: lefthand
+    100022: mouth
+    100024: pCylinder1
+    100026: rightarm
+    100028: rightarm 1
+    100030: rightboard
+    100032: righteye
+    100034: righthand
+    100036: root
+    100038: //RootNode
+    100040: transform13
+    400000: baketu
+    400002: baketu1
+    400004: body
+    400006: body1
+    400008: bodyhead
+    400010: head
+    400012: leftarm
+    400014: leftarm 1
+    400016: leftboard
+    400018: lefteye
+    400020: lefthand
+    400022: mouth
+    400024: pCylinder1
+    400026: rightarm
+    400028: rightarm 1
+    400030: rightboard
+    400032: righteye
+    400034: righthand
+    400036: root
+    400038: //RootNode
+    400040: transform13
+    2100000: lambert1
+    2300000: baketu
+    2300002: baketu1
+    2300004: body1
+    2300006: bodyhead
+    2300008: leftarm 1
+    2300010: leftboard
+    2300012: lefteye
+    2300014: mouth
+    2300016: pCylinder1
+    2300018: rightarm 1
+    2300020: rightboard
+    2300022: righteye
+    3300000: baketu
+    3300002: baketu1
+    3300004: body1
+    3300006: bodyhead
+    3300008: leftarm 1
+    3300010: leftboard
+    3300012: lefteye
+    3300014: mouth
+    3300016: pCylinder1
+    3300018: rightarm 1
+    3300020: rightboard
+    3300022: righteye
+    4300000: bodyhead
+    4300002: baketu
+    4300004: baketu1
+    4300006: lefteye
+    4300008: righteye
+    4300010: mouth
+    4300012: leftarm
+    4300014: rightarm
+    4300016: body1
+    4300018: rightboard
+    4300020: leftboard
+    4300022: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

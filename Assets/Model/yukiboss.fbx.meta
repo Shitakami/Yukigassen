@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 86c26c7884f18f04991bf74ee98fa0bb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Group11706
+    100002: Group20345
+    100004: Group50147
+    100006: Group58862
+    100008: //RootNode
+    100010: ZBrush_defualt_group
+    100012: Group20345_MeshPart0
+    100014: Group20345_MeshPart1
+    400000: Group11706
+    400002: Group20345
+    400004: Group50147
+    400006: Group58862
+    400008: //RootNode
+    400010: ZBrush_defualt_group
+    400012: Group20345_MeshPart0
+    400014: Group20345_MeshPart1
+    2100000: hand
+    2100002: bousi
+    2100004: bousi2
+    2100006: brasam
+    2100008: eye
+    2100010: No Name
+    2300000: Group11706
+    2300002: Group20345
+    2300004: Group50147
+    2300006: Group58862
+    2300008: ZBrush_defualt_group
+    2300010: Group20345_MeshPart0
+    2300012: Group20345_MeshPart1
+    3300000: Group11706
+    3300002: Group20345
+    3300004: Group50147
+    3300006: Group58862
+    3300008: ZBrush_defualt_group
+    3300010: Group20345_MeshPart0
+    3300012: Group20345_MeshPart1
+    4300000: Group20345
+    4300002: Group50147
+    4300004: Group11706
+    4300006: ZBrush_defualt_group
+    4300008: Group58862
+    4300010: Group20345_MeshPart0
+    4300012: Group20345_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: ad6db1773749465498c87701b9372cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bousi
+    second: {fileID: 2100000, guid: 8cc2796c02c23694d9850d9c85738cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bousi2
+    second: {fileID: 2100000, guid: 3c71a8f7a337b0947a5e6770b8d692e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brasam
+    second: {fileID: 2100000, guid: 82dfbaa061d42fe4385ef6b662a4aee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: 0e01f5f6643265d4db05d8ccbbb27f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand
+    second: {fileID: 2100000, guid: 8dd0ec3ecaf00ff4f9d2ba5c47960236, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
